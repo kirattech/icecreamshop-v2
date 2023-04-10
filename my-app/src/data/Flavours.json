@@ -1,0 +1,22 @@
+{
+    "Flavours":[
+        {"name":"Vanilla",
+        "desc":"Sweet dessert made from milk, cream, sugar, and a source of vanilla",
+        "image": "../ice_cream_pics/vanilla.png"},
+        {"name":"Strawberry",
+        "desc":"A sweet-tart burst of ripe, juicy strawberries stirred into sweet, frozen cream",
+        "image": "../ice_cream_pics/strawberry.png"}, 
+        {"name":"Chocolate", 
+        "desc": "A frozen dessert made from milk, cream, chocolate, and sugar flavored cocoa powder",
+        "image": "../ice_cream_pics/chocolate.png"},  
+        {"name":"Mango",
+        "desc": "Custard based ice cream made with cream, sugar, milk, eggs and mangoes",
+        "image": "../ice_cream_pics/mango.png"}, 
+        {"name": "Choc-Chip",
+        "desc": "Double-flavour ice cream made from vanilla ice cream and rich chocolate flakes",
+        "image": "../ice_cream_pics/chocchip.png"}, 
+        {"name": "Mixed",
+        "desc": "A mixed dessert of all the ice-creams offered at the Ice Cream Shop!",
+        "image": "../ice_cream_pics/mixed.png"}
+    ]
+}

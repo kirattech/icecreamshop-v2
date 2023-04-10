@@ -1,7 +1,7 @@
 import './App.css';
 import { Container, Button } from '@mui/material';
-import Intro from './components/1a.Intro'
-import IceCreamMenu from './components/2a.IceCreamMenu'
+import Intro from './components/Intro'
+import IceCreamMenu from './components/IceCreamMenu'
 
 function App() {
 
