@@ -16,10 +16,7 @@ const QuantityCount = (props) => {
     const subtractQuantity = () => {
         setQuantity((quantity) => quantity - 1);
         props.setQuantity((quantity) => quantity - 1);
-        test('Parent prop check', () => {
-            expect(props.quantity).toBe(quantity)
-        });
-
+        
         if(quantity === 1) {
             return setDisabled(true);
         }
