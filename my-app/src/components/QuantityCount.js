@@ -1,7 +1,11 @@
+//this is a TEST message
+
 import { Stack, IconButton } from '@mui/material';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import RemoveCircleIcon from '@mui/icons-material/RemoveCircle'; 
 import React, { useState } from "react";
+
+var test = "This is to see if branches working as expected."
 
 const QuantityCount = (props) => {
     var [quantity, setQuantity] = useState(0);
