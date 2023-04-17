@@ -1,3 +1,5 @@
+//this is a TEST message
+
 import { Stack, IconButton } from '@mui/material';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import RemoveCircleIcon from '@mui/icons-material/RemoveCircle'; 
@@ -24,11 +26,11 @@ const QuantityCount = (props) => {
 
     return(
         <Stack direction = "row" justifyContent={"center"}>
-            <IconButton onClick={subtractQuantity} disabled = {disabled}>
+            <IconButton onClick={subtractQuantity} disabled = {disabled} data-testid = "subtract">
                 <RemoveCircleIcon />
             </IconButton>
 
-            <p> {quantity} </p>
+            <p data-testid = "quantity"> {quantity} </p>
 
             <IconButton onClick={addQuantity}>
                 <AddCircleIcon />
