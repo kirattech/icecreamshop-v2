@@ -5,8 +5,6 @@ import AddCircleIcon from '@mui/icons-material/AddCircle';
 import RemoveCircleIcon from '@mui/icons-material/RemoveCircle'; 
 import React, { useState } from "react";
 
-var test = "This is to see if branches working as expected."
-
 const QuantityCount = (props) => {
     var [quantity, setQuantity] = useState(0);
     var [disabled, setDisabled] = useState(true);
@@ -28,11 +26,11 @@ const QuantityCount = (props) => {
 
     return(
         <Stack direction = "row" justifyContent={"center"}>
-            <IconButton onClick={subtractQuantity} disabled = {disabled}>
+            <IconButton onClick={subtractQuantity} disabled = {disabled} data-testid = "subtract">
                 <RemoveCircleIcon />
             </IconButton>
 
-            <p> {quantity} </p>
+            <p data-testid = "quantity"> {quantity} </p>
 
             <IconButton onClick={addQuantity}>
                 <AddCircleIcon />

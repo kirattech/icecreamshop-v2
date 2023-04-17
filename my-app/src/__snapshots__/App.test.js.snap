@@ -1,0 +1,1432 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="app"
+      >
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthXl css-11ul7xw-MuiContainer-root"
+        >
+          <header
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-11b3ww9-MuiPaper-root-MuiAppBar-root"
+            style="background-color: rgb(239, 99, 81);"
+          >
+            <div
+              class="MuiStack-root css-m69qwo-MuiStack-root"
+            >
+              <div
+                class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+              >
+                <h2
+                  style="font-family: Brush Script MT;"
+                  sx="[object Object]"
+                >
+                   Ice Cream Shop 
+                </h2>
+              </div>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                About
+              </button>
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+                href="../App.js"
+                tabindex="0"
+              >
+                Order
+              </a>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Reservation
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Contact
+              </button>
+            </div>
+          </header>
+          <br />
+          <br />
+          <br />
+          <br />
+          <h1
+            class="header"
+          >
+             Taking orders now 
+          </h1>
+          <p
+            class="text"
+          >
+            <i>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet scelerisque mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas est lorem, blandit a ornare vel, hendrerit elementum lacus.
+              <br />
+              <br />
+            </i>
+          </p>
+          <div
+            class="MuiGrid-root css-ny75tw-MuiGrid-root"
+          >
+            <img
+              src="48-flavours-1024x597.jpg"
+            />
+          </div>
+          <br />
+        </div>
+        <div>
+          <div
+            class="MuiContainer-root MuiContainer-maxWidthXl css-1e89hbn-MuiContainer-root"
+          >
+            <br />
+            <h1
+              class="header"
+            >
+               Our Menu 
+            </h1>
+            <p
+              class="text"
+            >
+              <i>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet scelerisque mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas est lorem, blandit a ornare vel, hendrerit elementum lacus. Proin hendrerit ligula nisi, quis varius neque blandit a. Morbi faucibus est nisl, sed euismod turpis sodales ut. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+              </i>
+            </p>
+            <div
+              class="MuiGrid-root MuiGrid-container css-ca29u4-MuiGrid-root"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="vanilla.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Vanilla
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      Sweet dessert made from milk, cream, sugar, and a source of vanilla
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="strawberry.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Strawberry
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      A sweet-tart burst of ripe, juicy strawberries stirred into sweet, frozen cream
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="chocolate.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Chocolate
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      A frozen dessert made from milk, cream, chocolate, and sugar flavored cocoa powder
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="mango.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Mango
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      Custard based ice cream made with cream, sugar, milk, eggs and mangoes
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="chocchip.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Choc-Chip
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      Double-flavour ice cream made from vanilla ice cream and rich chocolate flakes
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+              >
+                <div
+                  class="MuiBox-root css-1rr9j5j"
+                >
+                  <br />
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <img
+                      height="300"
+                      src="mixed.png"
+                      width="215"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <h5
+                      class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                    >
+                       
+                      <b>
+                         
+                        Mixed
+                         
+                      </b>
+                       | $10.00 
+                    </h5>
+                  </div>
+                  <div
+                    class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                    >
+                       
+                      A mixed dessert of all the ice-creams offered at the Ice Cream Shop!
+                       
+                    </p>
+                  </div>
+                  <div
+                    class="MuiStack-root css-13f3otb-MuiStack-root"
+                  >
+                    <button
+                      class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      data-testid="subtract"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="RemoveCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                        />
+                      </svg>
+                    </button>
+                    <p
+                      data-testid="quantity"
+                    >
+                       
+                      0
+                       
+                    </p>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="AddCircleIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <br />
+                </div>
+              </div>
+            </div>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-sghohy-MuiButtonBase-root-MuiButton-root"
+              style="background-color: rgb(239, 99, 81); margin-left: 590px;"
+              tabindex="0"
+              type="button"
+            >
+              <b>
+                 Place order 
+              </b>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="app"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthXl css-11ul7xw-MuiContainer-root"
+      >
+        <header
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-11b3ww9-MuiPaper-root-MuiAppBar-root"
+          style="background-color: rgb(239, 99, 81);"
+        >
+          <div
+            class="MuiStack-root css-m69qwo-MuiStack-root"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+            >
+              <h2
+                style="font-family: Brush Script MT;"
+                sx="[object Object]"
+              >
+                 Ice Cream Shop 
+              </h2>
+            </div>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              About
+            </button>
+            <a
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+              href="../App.js"
+              tabindex="0"
+            >
+              Order
+            </a>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              Reservation
+            </button>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1y942vo-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              Contact
+            </button>
+          </div>
+        </header>
+        <br />
+        <br />
+        <br />
+        <br />
+        <h1
+          class="header"
+        >
+           Taking orders now 
+        </h1>
+        <p
+          class="text"
+        >
+          <i>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet scelerisque mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas est lorem, blandit a ornare vel, hendrerit elementum lacus.
+            <br />
+            <br />
+          </i>
+        </p>
+        <div
+          class="MuiGrid-root css-ny75tw-MuiGrid-root"
+        >
+          <img
+            src="48-flavours-1024x597.jpg"
+          />
+        </div>
+        <br />
+      </div>
+      <div>
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthXl css-1e89hbn-MuiContainer-root"
+        >
+          <br />
+          <h1
+            class="header"
+          >
+             Our Menu 
+          </h1>
+          <p
+            class="text"
+          >
+            <i>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet scelerisque mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas est lorem, blandit a ornare vel, hendrerit elementum lacus. Proin hendrerit ligula nisi, quis varius neque blandit a. Morbi faucibus est nisl, sed euismod turpis sodales ut. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+            </i>
+          </p>
+          <div
+            class="MuiGrid-root MuiGrid-container css-ca29u4-MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="vanilla.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Vanilla
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    Sweet dessert made from milk, cream, sugar, and a source of vanilla
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="strawberry.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Strawberry
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    A sweet-tart burst of ripe, juicy strawberries stirred into sweet, frozen cream
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="chocolate.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Chocolate
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    A frozen dessert made from milk, cream, chocolate, and sugar flavored cocoa powder
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="mango.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Mango
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    Custard based ice cream made with cream, sugar, milk, eggs and mangoes
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="chocchip.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Choc-Chip
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    Double-flavour ice cream made from vanilla ice cream and rich chocolate flakes
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+            >
+              <div
+                class="MuiBox-root css-1rr9j5j"
+              >
+                <br />
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <img
+                    height="300"
+                    src="mixed.png"
+                    width="215"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+                  >
+                     
+                    <b>
+                       
+                      Mixed
+                       
+                    </b>
+                     | $10.00 
+                  </h5>
+                </div>
+                <div
+                  class="MuiGrid-root css-ny75tw-MuiGrid-root"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1ab0vso-MuiTypography-root"
+                  >
+                     
+                    A mixed dessert of all the ice-creams offered at the Ice Cream Shop!
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiStack-root css-13f3otb-MuiStack-root"
+                >
+                  <button
+                    class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    data-testid="subtract"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="RemoveCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"
+                      />
+                    </svg>
+                  </button>
+                  <p
+                    data-testid="quantity"
+                  >
+                     
+                    0
+                     
+                  </p>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddCircleIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <br />
+              </div>
+            </div>
+          </div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-sghohy-MuiButtonBase-root-MuiButton-root"
+            style="background-color: rgb(239, 99, 81); margin-left: 590px;"
+            tabindex="0"
+            type="button"
+          >
+            <b>
+               Place order 
+            </b>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
